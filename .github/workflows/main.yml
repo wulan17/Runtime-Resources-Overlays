@@ -1,0 +1,18 @@
+name: Android RRO
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: build
+      run: |
+        . make.sh
+      shell: bash
+      env:
+        TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }} 
+        TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }} 
+        GITTOKEN: ${{ secrets.GITTOKEN }} 
+        KEYSTORE_PASS: ${{ secrets.KEYSTORE_PASS }} 
