@@ -1,0 +1,9 @@
+ui_print("");
+run_program("/sbin/busybox", "mount", "/system_root");
+package_extract_dir("system", "/system_root/system");
+unmount("/system_root");
+ui_print("Installed...");
+ui_print("-------------------------------------");
+ui_print("         wulan17               ");
+ui_print("-------------------------------------");
+
