@@ -1,0 +1,221 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: TPxMijGzbT/mc3tplg3xMsQi1Eo=
+
+Name: system/lib/surround_sound_headers.so
+SHA1-Digest: yz1D6zmHTfTgp4EtPa9jkXIxUgY=
+
+Name: system/usr/share/alsa/pcm/dpl.conf
+SHA1-Digest: CMpPJT/vVh+bc+kBdV0r4MMIVyw=
+
+Name: system/framework/com.sonyericsson.appextensions.jar
+SHA1-Digest: Fjs/UBcxIWkL/hLEuW1bWV/Nuq4=
+
+Name: system/etc/permissions/com.sonyericsson.colorextraction.xml
+SHA1-Digest: k2xmz9nF65L6DdvkwqlK/WLMxVY=
+
+Name: system/lib/libgnmc_aactag.so
+SHA1-Digest: 1bssHuy+p6qIPA5Z4pOpibLeDJc=
+
+Name: system/etc/surround_sound/filter2i.pcm
+SHA1-Digest: aJGZ87Pc5r2ndYHdkzbeC2QZR4o=
+
+Name: system/app/SemcMusic.apk
+SHA1-Digest: zSQRfLvZswjlI/9SLkX7F9KGFaA=
+
+Name: system/lib/libvpt51wrapper.so
+SHA1-Digest: saVElD/gJoxmY/vKV0n/+unZpeg=
+
+Name: system/lib/soundfx/libposteffectwrapper.so
+SHA1-Digest: ++BGpOfGh8F+QG/4O9FtUCWo3KE=
+
+Name: system/usr/share/alsa/pcm/center_lfe.conf
+SHA1-Digest: GRQhFIicWUuRgd0fknT8vrvAuW4=
+
+Name: system/framework/com.sonyericsson.music.jar
+SHA1-Digest: ESdcp5CMI681IbFJrYyF1X4i16A=
+
+Name: system/framework/com.sonyericsson.audioeffect.jar
+SHA1-Digest: 7r7LElrnuOm4Ro7xGF0xwq8o1qE=
+
+Name: system/usr/share/alsa/pcm/front.conf
+SHA1-Digest: ggjvXIKFLHJo1NjbEA/sBiYfBFo=
+
+Name: system/usr/share/alsa/pcm/dsnoop.conf
+SHA1-Digest: jkvuaM4pU4XwO72JPwWBtpSIeHU=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: G29voqsYWEcK3j7Ek8r60QsBR0Y=
+
+Name: system/vendor/lib/libsurround_proc.so
+SHA1-Digest: s44Vl+7EL56znki7yScWLJr9jsw=
+
+Name: system/etc/surround_sound/filter3r.pcm
+SHA1-Digest: 2LgoZPL30PQn89WtEO7x139ntZ4=
+
+Name: system/usr/share/alsa/pcm/surround71.conf
+SHA1-Digest: n81ECY3mkyTns9ARxDQPriDz2eM=
+
+Name: system/vendor/lib/liblistensoundmodel.so
+SHA1-Digest: +C5LZ9oqc6+Y5NucsWRpwJgRCZU=
+
+Name: system/usr/share/alsa/pcm/modem.conf
+SHA1-Digest: HcLIW3gD2QR/KpdsKNB08XxbOAk=
+
+Name: system/lib/libgnmc_fpx.so
+SHA1-Digest: w09NDyBTkWCxW2JU6xAzmI9GMwA=
+
+Name: system/lib/libgnmc_id3tag.so
+SHA1-Digest: kQsQYgxFmFhXPyuYyU8nCDRFxbM=
+
+Name: system/framework/com.sonyericsson.uxp.jar
+SHA1-Digest: h28GccNSMJa0MiVipeuqlL1HYmM=
+
+Name: system/usr/share/alsa/pcm/surround51.conf
+SHA1-Digest: 2gFx6GbbfFt8WOJp1siK+N2jHOg=
+
+Name: system/lib/soundfx/libpreeffectwrapper.so
+SHA1-Digest: hNgO8CnoGHZz5uS2hYoH0X5SSp8=
+
+Name: system/app/WikipediaPlugin.apk
+SHA1-Digest: C/8rpkNjKVbDiIMRC5ZUFK7Iwwk=
+
+Name: system/framework/com.sonyericsson.uxpres.jar
+SHA1-Digest: FXIbP5W9t92rrelhuLeLoGMuE1Y=
+
+Name: system/etc/permissions/com.sonyericsson.uxp.xml
+SHA1-Digest: X86/leHD+tf/0EFY0467/ydkXr8=
+
+Name: system/usr/share/alsa/pcm/rear.conf
+SHA1-Digest: fp1hbBv+64+eViFYwQf3/Td+n94=
+
+Name: system/etc/permissions/com.sonyericsson.appextensions.xml
+SHA1-Digest: z9S2I+E3Q6oT6MIrSImczNDo2LA=
+
+Name: system/lib/soundfx/libhearingprotection.so
+SHA1-Digest: 0kF4VrJ54UBZZz65dfs+NWARZa8=
+
+Name: system/framework/com.sonyericsson.metadatacleanup.jar
+SHA1-Digest: rrJx6/XL/G7wdbXPJEQSWgyxAOc=
+
+Name: system/usr/share/alsa/pcm/iec958.conf
+SHA1-Digest: w/xO7nW/a72OD7byDtzcKiu4EtA=
+
+Name: system/usr/share/alsa/pcm/surround50.conf
+SHA1-Digest: g1nz4giScJ7oF0Sot2wTtmxMLkA=
+
+Name: system/framework/com.sonyericsson.media.infinite.extension_1.jar
+SHA1-Digest: GCmabfhhapo5ajdyN3MA28ApiIY=
+
+Name: system/etc/surround_sound/filter2r.pcm
+SHA1-Digest: dTIRChWVqnsrfYuqjY6io9+aobo=
+
+Name: system/usr/share/alsa/cards/aliases.conf
+SHA1-Digest: 4d+0RDbuRk5/UCVICDVLyiB74L8=
+
+Name: system/etc/permissions/com.sonyericsson.audioeffectif.xml
+SHA1-Digest: gYdTjfA4gLxTigkdtYnOyWjIiaY=
+
+Name: system/etc/permissions/com.sonyericsson.media.infinite.extension
+ _1.xml
+SHA1-Digest: vNjpxERSxZJwIHiFNcagzF0itLA=
+
+Name: system/framework/com.sonyericsson.colorextraction_impl.jar
+SHA1-Digest: 5D4j91yd1DmxSaJf/Pe6uSHF6c8=
+
+Name: system/app/GoogleLyricsPlugin.apk
+SHA1-Digest: lb8Vx9CDdAuWfIu6kbCnqcMvEUQ=
+
+Name: system/lib/libsmfmf.so
+SHA1-Digest: fRsJGLacHYMPZVJ5z5V8t9gGUG4=
+
+Name: system/etc/surround_sound/filter4r.pcm
+SHA1-Digest: mkxT9GjtRWFaq9DynFRQS393Kj4=
+
+Name: system/etc/permissions/com.sonyericsson.uxpres.xml
+SHA1-Digest: aZn2khi7P1nwAZzpmoA0aL0z2Ak=
+
+Name: system/usr/share/alsa/alsa.conf
+SHA1-Digest: F7a3c79X1Vl6vas04MohpUxxY7E=
+
+Name: system/framework/semc_audioeffectif.jar
+SHA1-Digest: hFt2lHgwJo4yYdiRswBRSSp/5eA=
+
+Name: system/lib/soundfx/libvpt51wrapper.so
+SHA1-Digest: w3mbfiBZqbE0f0jbuIL/PrD4ZHo=
+
+Name: system/usr/share/alsa/pcm/side.conf
+SHA1-Digest: 0phJEG989ygUunyxCWVhAmZOc5w=
+
+Name: system/lib/libjpeguser.so
+SHA1-Digest: Uwvz2OghVQbYavjyJDsOAiIMAvg=
+
+Name: system/lib/soundfx/libfnrwrapper.so
+SHA1-Digest: T/nZZuH4dr763u3azaQd8bFnwm8=
+
+Name: system/etc/audio_only_image.rgb
+SHA1-Digest: IBoXfIz9jdiHNg7eOiZUJzT+de8=
+
+Name: system/vendor/etc/effect_init_params
+SHA1-Digest: liTLiaX2HyHhXEKpfdlSqngpWrk=
+
+Name: system/etc/audio_effects.conf
+SHA1-Digest: QrEGw+gXPk/Y8nAooW2BNnkClFw=
+
+Name: system/app/GoogleMusicExtension.apk
+SHA1-Digest: 9v2CTIkYokDoISe9ARV3dHNynTE=
+
+Name: system/etc/permissions/com.sonyericsson.metadatacleanup.xml
+SHA1-Digest: ClfqHqsOJErP2kNBJR5iURUXbTA=
+
+Name: system/usr/share/alsa/pcm/surround41.conf
+SHA1-Digest: rbr8/tw+sqmc2vZHoucFq7iAaI8=
+
+Name: system/lib/libnativeio.so
+SHA1-Digest: EG6C8RnUkBvtTE4LZgNbnP6nJCM=
+
+Name: system/lib/libark2.so
+SHA1-Digest: 9AV72hr4ARgIWrRdorNsNwofwHQ=
+
+Name: system/etc/surround_sound/filter1r.pcm
+SHA1-Digest: ic94LT/nYDaDudYhJuXLhrCC8Ec=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: CSZ7Gyg6X76HeNNSMKPZaNDGFlI=
+
+Name: system/app/SemcMetadataCleanup.apk
+SHA1-Digest: jQxBagny7DNB/UZpSTWEZKCnVxw=
+
+Name: system/usr/share/alsa/pcm/dmix.conf
+SHA1-Digest: piWz8y7q/8cTRgIUWjOl8Ea3iUE=
+
+Name: system/usr/share/alsa/pcm/default.conf
+SHA1-Digest: a4UXVzpPrXTiVs68pSn5QkdQk34=
+
+Name: system/app/YouTubePlugin.apk
+SHA1-Digest: aDE3SvA7h8/fLVEJI+zlq5x1VDQ=
+
+Name: system/etc/surround_sound/filter4i.pcm
+SHA1-Digest: uSWlpTDrjWgbO/yCMbIqNJHUzaw=
+
+Name: system/usr/share/alsa/pcm/surround40.conf
+SHA1-Digest: 9pF//7V/st4iTTi4pw0/RqXFJLs=
+
+Name: system/app/YouTubeKaraokePlugin.apk
+SHA1-Digest: YuMRNX8rdRngcDtqyk6Y4rjvf/s=
+
+Name: system/etc/surround_sound/filter1i.pcm
+SHA1-Digest: xwx/0saseHjYeIeCce1VaSmVb3Y=
+
+Name: system/lib/libgnmc_decoder.so
+SHA1-Digest: dPCiJq1Z9S06aqKtLfvEtmaZoVs=
+
+Name: system/lib/libdec.so
+SHA1-Digest: gIUyyLkzlguZYEFruvQ02O5pVNo=
+
+Name: system/etc/surround_sound/filter3i.pcm
+SHA1-Digest: XM+FMsW5MUUQ7d6+fJakWpCtFiA=
+
+Name: system/lib/libstream_core.so
+SHA1-Digest: 96AQD1+077U+h6IXraBlJnv/9mI=
+

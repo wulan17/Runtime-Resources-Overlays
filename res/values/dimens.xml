@@ -1,0 +1,4 @@
+<resources>
+    <!-- Height of the status bar -->
+    <dimen name="statusbarheight_portrait">94.0px</dimen>
+</resources>
