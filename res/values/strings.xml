@@ -18,6 +18,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="scrd_overlay">Screenrecord h264</string>
+    <string name="overlay_name">Screenrecord h264</string>
 
 </resources>
